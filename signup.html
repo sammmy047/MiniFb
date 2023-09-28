@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SignUp Form</title>
+    <link rel = "stylesheet" href ="signupstyles.css">
+  </head>
+  <body>
+    <form action = "signup.php" method="post">
+    <div class="box">
+
+      <div class="form">
+         <h2> Sign Up </h2>
+
+         <div class="inputBox">
+
+           <input type="text" required ="required" name="u">
+           <span>Username</span>
+           <i></i>
+         </div>
+         <div class = "inputBox">
+            <input type="email" required="required" name="email">
+            <span>Email</span>
+            <i></i>
+         </div>
+         <div class = "inputBox">
+            <input type="password" required="required" name="p">
+            <span>Password</span>
+            <i></i>
+         </div>
+         <div class="check">
+						<span >Gender<i></i></span>
+						<select  name="gender" required="required">
+							<option disabled>Select your Gender</option>
+							<option>Male</option>
+							<option>Female</option>
+							<option>Others</option>
+						</select>
+					</div><br>
+          <div class="inputBox">
+    
+            <span>Enter place of birth</span>
+            <i></i>
+            <div></div>
+            <input type="text" required ="required" name="sec">
+            
+            <i></i>
+          </div>
+
+         <div class = "check">
+            <input type="checkbox" required  name="terms">
+            <span>I accept the terms and conditions</span>
+            <i></i>
+         </div>
+        
+         <!--<center><button id="signup" name="sign_up">Signup</button></center> -->
+         <input type="submit" value="SignUp" name="Sign_up">
+          <a href ="index.html"> 
+            <input type="button" value="Back" />
+          </a>
+      </div>
+    </div>
+    </form>
+  </body>
+</html>

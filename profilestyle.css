@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap');
+
+* {
+    margin: 0;
+    font-family:'Rubik Bubbles','sans-serif';
+}
+
+body {
+     background:#5fffd9;
+    font-family: 'Times New Roman', Times, serif;
+    overflow: hidden;
+}
+
+/* NavbarTop */
+.navbar-top {
+    background-color:rgb(246 255 134);
+    color: #333;
+    box-shadow: 0px 4px 8px 0px grey;
+    height: 70px;
+}
+
+.title {
+    font-family: 'Rubik Bubbles', cursive;
+    padding-top: 15px;
+    position: absolute;
+    left: 35%;
+
+
+}
+
+.card-body
+{
+    background-color:rgb(246 255 134);
+}
+.main {
+    margin-top: 2%;
+    margin-left: 20%;
+    font-size: 28px;
+    padding: 0 10px;
+    width: 58%;
+}
+
+
+
+.main .card {
+    border-radius: 18px;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 20px 0 20px 50px;
+}
+
+.main .card table {
+    border: none;
+    font-size: 16px;
+    height: 200px;
+    width: 80%;
+}
+
