@@ -7,3 +7,7 @@ Schema Of MiniFb :
 
 ![image](https://github.com/sammmy047/MiniFb/assets/76446088/f71de5be-10bb-423b-bc0d-fb87dd4d4fe3)
 
+ER-Diagram of MiniFb :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/ea237f80-9aac-44d7-8d34-59d61cdbe46a)
+
