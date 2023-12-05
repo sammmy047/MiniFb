@@ -19,3 +19,7 @@ Posts :
 
 ![image](https://github.com/sammmy047/MiniFb/assets/76446088/e4ab4abb-17d2-416d-8c5d-67b936f6b7d3)
 
+Profile Setup :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/e80bda02-b359-482b-9bac-e244b3290c27)
+
