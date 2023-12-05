@@ -11,3 +11,7 @@ ER-Diagram of MiniFb :
 
 ![image](https://github.com/sammmy047/MiniFb/assets/76446088/ea237f80-9aac-44d7-8d34-59d61cdbe46a)
 
+Creating a post :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/4a66b73d-8101-4460-a6dc-5d1a3f113a58)
+
