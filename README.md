@@ -3,3 +3,7 @@ Mini Facebook is a web-based application that intends to provide a well-establis
 The main objective of this web-based application is to efficiently post the information to all the students in one place. This system not only saves lot of time but also gives fast and accurate results.
 
 
+Schema Of MiniFb :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/f71de5be-10bb-423b-bc0d-fb87dd4d4fe3)
+
