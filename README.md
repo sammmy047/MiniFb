@@ -23,3 +23,6 @@ Profile Setup :
 
 ![image](https://github.com/sammmy047/MiniFb/assets/76446088/e80bda02-b359-482b-9bac-e244b3290c27)
 
+Sub Posts :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/5e01f0c2-2806-4766-973c-d3847b097f14)
