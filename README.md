@@ -15,3 +15,7 @@ Creating a post :
 
 ![image](https://github.com/sammmy047/MiniFb/assets/76446088/4a66b73d-8101-4460-a6dc-5d1a3f113a58)
 
+Posts :
+
+![image](https://github.com/sammmy047/MiniFb/assets/76446088/e4ab4abb-17d2-416d-8c5d-67b936f6b7d3)
+
